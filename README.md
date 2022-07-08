@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ojasvita1305
-- 👀 I’m interested in hacking and programming
+- 👀 I’m interested in data science and development.
 - 🌱 I’m currently pursuing B.tech degree in Electronics and telecommunications.
-- 🙋 I'm a beginner in programming and want to learn everything I can which will move me forward towards becoming a hacker.
+- 🙋 I'm a beginner in data science and development and want to do everything to improve myself.
 
 <!---
 Ojasvita1305/Ojasvita1305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
